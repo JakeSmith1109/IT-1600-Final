@@ -1,4 +1,8 @@
 # How to Convert Decimal to Binary
 # Author: Jake Smith
 
-The purpose of this tutorial is to teach people how to convert [decimal](https://en.wikipedia.org/wiki/Decimal) to [binary](https://en.wikipedia.org/wiki/Binary_number).
+The purpose of this tutorial is to teach people how to convert [decimal](https://en.wikipedia.org/wiki/Decimal) to [binary](https://en.wikipedia.org/wiki/Binary_number). This skill is used for many jobs in the Information Technology and general technology world and is deemed a very valuable skill to have. Since computers run on the binary number system, it is imperative that converting binary numbers into different number systems begins to become general knowledge as we continue to enter a full technological world.
+
+The contents of this tutorial include explanations on how binary bits are created and what they are made up of. It also shows how and why the minimum decimal number a binary bit can represent is 0 and the maximum is 255. And, most importantly, it teaches you how to convert numbers from the decimal system into binary. The full tutorial can be found in this [video](https://vimeo.com/770124835/834b9cfe04), where the author goes in depth on how to convert with multiple examples. I hope you can learn something from this! It is not the most difficult skill to learn, but is certainly valuable.
+
+The target audience for this specific tutorial can be as broad as people who want a stronger general knowledge bank about basic technology, or as narrow as Information Technology students at the University of Missouri. If you are an IT student, this is something that you undoubtedly need to master, which can be done by following the examples in the video. And, if you are someone who is simply looking to learn about computers, this is a fantastic place to start.
